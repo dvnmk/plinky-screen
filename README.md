@@ -1,6 +1,5 @@
 # PLINKY SCREEN
-
-PLINKY SCREEN
+Monitoring the control message and value from plink 12 blocks.
 ![plinky-screen](img/IMG_3302.png)
 
 ## Features
