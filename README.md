@@ -2,11 +2,12 @@
 
 PLINKY SCREEN
 ![plinky-screen](img/IMG_3302.png)
-![deadbug](img/IMG_3303.png)
+
 ## Features
 - 
 
 ## Hardware
+![deadbug](img/IMG_3303.png)
 
 ## Cardputer Key
 
